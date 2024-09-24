@@ -1,10 +1,10 @@
 [![MasterHead](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/655b452dc981ac4a26381206_7%2B%20Amazing%20Sites%20to%20Hire%20iOS%20Developer%20Ukraine%20Edition.webp)](https://github.com/krishna66vamshi)
 <h1 align="center">Hi 👋, I'm Vamshi</h1>
-<h3 align="center">A passionate iOS App developer from India</h3>
+<h3 align="center">A passionate iOS App developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on **Emerson Oversight**
+- 🔭 I’m currently working on **Gap Inc iOS Mobile App**
 
-- 🌱 I’m currently learning **SwiftUI,Flutter and Xamarin**
+- 🌱 I’m currently learning **iOS Swift,SwiftUI,Flutter and Xamarin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/krishna66vamshi](https://github.com/krishna66vamshi)
 
